@@ -1,0 +1,27 @@
+{
+  "name": "alexa-hello",
+  "version": "1.0.0",
+  "description": "Hello skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KayEm/alexa-hello.git"
+  },
+  "keywords": [
+    "sounds",
+    "alexa",
+    "skill"
+  ],
+  "author": "Monika Kiss",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KayEm/alexa-hello/issues"
+  },
+  "homepage": "https://github.com/KayEm/alexa-hello#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
+}
